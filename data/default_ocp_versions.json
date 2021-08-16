@@ -24,6 +24,15 @@
         "rhcos_image": "https://mirror.openshift.com/pub/openshift-v4/dependencies/rhcos/4.8/4.8.2/rhcos-4.8.2-x86_64-live.x86_64.iso",
         "rhcos_rootfs": "https://mirror.openshift.com/pub/openshift-v4/dependencies/rhcos/4.8/4.8.2/rhcos-live-rootfs.x86_64.img",
         "rhcos_version": "48.84.202107202156-0",
+        "support_level": "production"
+    },
+    "4.9": {
+        "display_name": "4.9.0",
+        "release_version": "4.9.0",
+        "release_image": "registry.ci.openshift.org/ocp/release:4.9",
+        "rhcos_image": "https://mirror.openshift.com/pub/openshift-v4/dependencies/rhcos/4.8/4.8.2/rhcos-4.8.2-x86_64-live.x86_64.iso",
+        "rhcos_rootfs": "https://mirror.openshift.com/pub/openshift-v4/dependencies/rhcos/4.8/4.8.2/rhcos-live-rootfs.x86_64.img",
+        "rhcos_version": "48.84.202107202156-0",
         "support_level": "production",
         "default": true
     }
